@@ -20,7 +20,7 @@ Python · LangChain · LangGraph · DeepSeek · RAG · Streamlit · Git / GitHub
 
 - 严格 JSON 输出契约，编排层依据字段做路由，而不是解析自然语言
 - 自己实现的 TF-IDF 检索，中文按字二元组切分，clone 下来十秒内能跑
-- 确定性 mock 模型让整条链路离线可跑，36 个测试全部不联网
+- 确定性 mock 模型让整条链路离线可跑，50 个测试全部不联网
 - 每次都留下可读的执行轨迹，Markdown 和 JSON 双格式
 
 ## 工作方式
